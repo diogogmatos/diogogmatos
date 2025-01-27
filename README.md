@@ -8,8 +8,9 @@
 
 **Find me here:**
 
+[![diogogmatos.dev](https://img.shields.io/badge/diogogmatos.dev-000000?style=for-the-badge)](https://diogogmatos.dev)
 [![Gmail](https://img.shields.io/badge/Email-41454a?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:me@diogogmatos.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diogo-matos)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge)](https://www.linkedin.com/in/diogo-matos)
 
 ## 🎓 Uni Projects
 
