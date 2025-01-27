@@ -13,6 +13,9 @@
 
 ## 🎓 Uni Projects
 
+**4th year**
+- [**PictuRAS (RAS)**](https://github.com/diogogmatos/PictuRAS) - Intuitive online image editing platform, with bulk editing and AI-powered features
+
 **3rd year**
 - [**UniShare (EngWeb)**](https://github.com/diogogmatos/EngWeb2024-Projeto) - Hub for study support materials for the entire academic community, developed in Next.js
 - [**E.S. Ideal (IPM)**](https://github.com/diogogmatos/IPM) - Internal management platform for a service station, developed with Vue.js, TypeScript, and JSON Server
