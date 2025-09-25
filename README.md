@@ -42,7 +42,7 @@
 - [**Hydrogen**](https://github.com/cesium/hydrogen) - 🪂 Landing page for Centro de Estudantes de Engenharia Informática da Universidade do Minho (CeSIUM)
 - [**CeSIUM Pelo Mundo**](https://github.com/cesium/CeSIUMpeloMundo) - :world_map: A world map with the places we've been
 
-## 🕹 Skills
+## 🕹️ Skills
 
 ![NextJS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=ffffff)
 ![React](https://img.shields.io/badge/React-001e26?style=for-the-badge&logo=react&logoColor=61DAFB)
