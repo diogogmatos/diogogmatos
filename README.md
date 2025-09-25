@@ -24,6 +24,7 @@
 - [**E.S. Ideal (DSS)**](https://github.com/diogogmatos/trabalho-dss-grupo-05) - Backend management system for a service station, made with Java
 - [**Concordia (SSI)**](https://github.com/diogogmatos/SSI) - Securing a local email service using Linux's OS security features
 - [**CG**](https://github.com/diogogmatos/CG) - 3D Engine developed using Glut and OpenGL
+- [**TCPombo/UDPombo (CC)**](https://github.com/diogogmatos/CC-TP2-PL2-G8) - Torrent-like app supported by two custom PTP application-layer protocols
 
 **2nd year**
 - [**BD**](https://github.com/diogogmatos/BD-Grupo20) - Development of a database for a public transport company, using SQL
