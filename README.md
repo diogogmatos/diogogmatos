@@ -2,7 +2,7 @@
 
 ### I'm a Software Engineering Student @ [UMinho](https://uminho.pt)
 - 🍊 Co-director | Open Source Department @ [CeSIUM](cesium.di.uminho.pt)
-- 📂 Currently doing front-end development for [CeSIUM](github.com/cesium)
+- 📂 Currently working on a startup project @ [GrafitLabs](https://github.com/grafit-labs)
 - 💾 Technology is an inspiration to me
 - 🌱 Fun fact: I do yoga
 
@@ -16,6 +16,8 @@
 
 **4th year**
 - [**PictuRAS (RAS)**](https://github.com/diogogmatos/PictuRAS) - Intuitive online image editing platform, with bulk editing and AI-powered features
+- [**ESR**](https://github.com/diogogmatos/ESR-TP2-2024/tree/main) - Over-The-Top (OTT) media delivery service
+- [**DAA**](https://github.com/diogogmatos/DAA) - Designing ML models to predict the progression from MCI to AD
 
 **3rd year**
 - [**UniShare (EngWeb)**](https://github.com/diogogmatos/EngWeb2024-Projeto) - Hub for study support materials for the entire academic community, developed in Next.js
@@ -38,9 +40,10 @@
 
 ## 🙌🏼 Contributing to
 
-- [**Calendarium**](https://github.com/cesium/calendarium) - :calendar: Calendar with special events, due dates and week schedule
-- [**Hydrogen**](https://github.com/cesium/hydrogen) - 🪂 Landing page for Centro de Estudantes de Engenharia Informática da Universidade do Minho (CeSIUM)
-- [**CeSIUM Pelo Mundo**](https://github.com/cesium/CeSIUMpeloMundo) - :world_map: A world map with the places we've been
+- [**Astra**](https://github.com/cesium/astra/) - 🐦 Schedule management and exchange platform for University of Minho Software Engineering students
+- [**Hydrogen**](https://github.com/cesium/hydrogen) - 🪂 Landing page for University of Minho Software Engineering Students' Center (CeSIUM)
+- [**Calendarium**](https://github.com/cesium/calendarium) - 🗓️ A scheduling and deadline management tool for University of Minho Software Engineering students
+- [**CeSIUM Pelo Mundo**](https://github.com/cesium/CeSIUMpeloMundo) - 🗺️ A world map of places visited by the CeSIUM team
 
 ## 🕹️ Skills
 
