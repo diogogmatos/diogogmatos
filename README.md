@@ -1,7 +1,7 @@
 # 👋🏼 Hi there! I'm Diogo \^\^
 
 ### I'm a Software Engineering Student @ [UMinho](https://uminho.pt)
-- 🍊 Co-director | Open Source Department @ [CeSIUM](cesium.di.uminho.pt)
+- 🍊 Secretary | Fiscal Council @ [CeSIUM](cesium.di.uminho.pt)
 - 📂 Currently working on a startup project @ [GrafitLabs](https://github.com/grafit-labs)
 - 💾 Technology is an inspiration to me
 - 🌱 Fun fact: I do yoga
