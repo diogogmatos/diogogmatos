@@ -2,7 +2,7 @@
 
 ### I'm a Software Engineering Student @ [UMinho](https://uminho.pt)
 - 🍊 Secretary | Fiscal Council @ [CeSIUM](cesium.di.uminho.pt)
-- 📂 Currently working on a startup project @ [GrafitLabs](https://github.com/grafit-labs)
+- 📂 Currently working on my thesis on Green Software and Green AI
 - 💾 Technology is an inspiration to me
 - 🌱 Fun fact: I do yoga
 
