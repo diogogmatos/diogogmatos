@@ -78,7 +78,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Zsh](https://img.shields.io/badge/ZSH-242c34?style=for-the-badge&logo=zsh&logoColor=white)
-![ArchLinux](https://img.shields.io/badge/Arch%20Linux-1791ce?style=for-the-badge&logo=archlinux&logoColor=white)
+![Fedora](https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=white)
 <!--
 ### Stats
 
